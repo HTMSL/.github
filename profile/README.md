@@ -8,15 +8,14 @@ HTMSL is a collaborative technology organization focused on turning real-world c
 
 | Public repositories | Community followers | Open issues |
 | :---: | :---: | :---: |
-| **2** | **8** | **0** |
+| **1** | **8** | **0** |
 
-> Snapshot: 22 September 2026. These numbers reflect our public GitHub presence and will grow as we share more work.
+> Snapshot: 22 September 2026. These figures reflect HTMSL's public GitHub presence.
 
-## Featured work
+## Public work
 
 | Repository | Focus | Explore |
 | --- | --- | --- |
-| [aft-doc](https://github.com/HTMSL/aft-doc) | Active project repository | [View repository →](https://github.com/HTMSL/aft-doc) |
 | [.github](https://github.com/HTMSL/.github) | Organization profile and community standards | [View repository →](https://github.com/HTMSL/.github) |
 
 ## What we care about
